@@ -1,0 +1,14 @@
+{
+  "name": "ground-path-1",
+  "w": 64,
+  "h": 48,
+  "origin": [
+    32,
+    0
+  ],
+  "footprint": [
+    1,
+    1
+  ],
+  "lights": []
+}

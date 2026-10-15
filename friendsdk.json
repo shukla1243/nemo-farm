@@ -1,0 +1,7 @@
+{
+  "id": "nemo-farm",
+  "title": "NEMO FRNS FARM",
+  "version": "0.1.0",
+  "client": "src/main.ts",
+  "display": { "minAspectRatio": "9:20", "maxAspectRatio": "21:9" }
+}

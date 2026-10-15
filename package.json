@@ -1,0 +1,21 @@
+{
+  "name": "nemo-frns-farm-teaser",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "NEMO FRNS FARM coming-soon screen for Rare Friends (FriendSDK 1.0)",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "friendsdk dev",
+    "check": "friendsdk check",
+    "build": "friendsdk build",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@rarefriends/friendsdk": "github:rarefriends/friendsdk#c19058711f3c207c67cd30b8136de89978f08ddd",
+    "typescript": "^5.9.3"
+  }
+}
